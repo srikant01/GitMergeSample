@@ -1,5 +1,5 @@
 
 public class TestFile {
 //
-	System.out.println("how");
+	System.out.println("hello");
 }
